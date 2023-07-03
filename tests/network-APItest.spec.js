@@ -34,8 +34,8 @@ test('network api scenario', async ({ page }) =>
       route.fulfill(
         {
 
-        response,
-        body,
+       //response,
+        //body,
 
       });
     });
